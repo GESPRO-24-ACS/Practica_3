@@ -27,9 +27,12 @@ David Santamaria
 
 
 **Captura de pantalla del primer commit**
+![image](https://github.com/user-attachments/assets/5aadb7ae-5594-486d-a267-0ec580f2e91c)
 
 
 **Captura de pantalla del último commit**
+![image](https://github.com/user-attachments/assets/84dee2df-1b68-4257-9b1d-383c2b23ab10)
+
 
 
 **La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"**
