@@ -62,20 +62,21 @@ David Santamaria
 GITKRAKEN - 
 **Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio**
 
-![image](https://github.com/user-attachments/assets/95d2821d-188e-4864-aadf-5d2724e4300a)
+![image](https://github.com/user-attachments/assets/2248386a-0a12-433f-916f-ba4662adb3a2)
+
 
 
 
 **Captura de pantalla del primer commit**
-![image](https://github.com/user-attachments/assets/5aadb7ae-5594-486d-a267-0ec580f2e91c)
+![image](https://github.com/user-attachments/assets/963f7fd8-e3c7-46cd-8aa6-34c78788f538)
 
 
 **Captura de pantalla del último commit**
-![image](https://github.com/user-attachments/assets/84dee2df-1b68-4257-9b1d-383c2b23ab10)
+![image](https://github.com/user-attachments/assets/f8adb574-6e25-4a5f-bbb8-f10b27a404dd)
 
 
 
-**La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"**
+GITHUB - **La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"**
 ![image](https://github.com/user-attachments/assets/6d8adb1a-0227-47fe-9c50-f1c263a528da)
 
 **La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency"**
