@@ -21,10 +21,9 @@ David Santamaria
 *Incluir guía de como cómo se realiza toda la secuencia de acciones desde que nos posicionamos en un nuevo commit del repositorio Go Bees hasta que pasa a estar visible en nuestra rama master local*
 
 **Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio**
-![image](https://github.com/user-attachments/assets/51e0b277-0cf3-4208-950a-99c6cbb6b0be)
-Esto creo que no es
+
 ![image](https://github.com/user-attachments/assets/95d2821d-188e-4864-aadf-5d2724e4300a)
-CReo que tampoco es revisen
+
 
 
 **Captura de pantalla del primer commit**
