@@ -21,41 +21,41 @@ David Santamaria
 
  **1. Go Bees (GitKraken)**:
    - **Acción**: Posicionarse en el commit para subir cambios.
-   - **Descripción**: Abre GitKraken y asegúrate de estar en el repositorio correcto. Dirígete al commit correspondiente donde quieres comenzar a trabajar, generalmente el commit que incluye los últimos cambios de tu proyecto.
+   - Abrimos GitKraken y nos asegúramos de estar en el repositorio correcto. NOs dirigimos al commit correspondiente donde queremos comenzar a trabajar, generalmente el commit que incluye los últimos cambios del proyecto.
 
  **2. P3 (GitKraken)**:
    - **Acción**: Tener la rama **master** actualizada y posicionarse en **master**.
-   - **Descripción**: Asegúrate de que tu rama **master** está al día con los cambios más recientes. Selecciona la rama **master** en GitKraken y confirma que está actualizada con los últimos cambios. Si es necesario, haz un **pull** para sincronizarla.
+   - Nos debemos asegurar de que la rama **master** está al día con los cambios más recientes. Seleccionamos la rama **master** en GitKraken y confirmamos que está actualizada con los últimos cambios. Si es necesario, haremos un **pull** para sincronizarla.
 
  **3. P3 (GitHub)**:
    - **Acción**: Crear una rama a partir de la tarea con el nombre **Go Bees**.
-   - **Descripción**: En GitHub, crea una nueva rama a partir de **master**. Asigna un nombre descriptivo a la nueva rama, como **GoBees**, para identificar fácilmente el trabajo en esta tarea.
+   - En GitHub, creamos una nueva rama a partir de **master**. Asignaremos un nombre a la nueva rama para identificar fácilmente el trabajo en esta tarea.
 
  **4. P3 (GitKraken)**:
    - **Acción**: Posicionarse en la rama en local.
-   - **Descripción**: Regresa a GitKraken y cambia a la nueva rama **Go Bees** que acabas de crear. Esto te permitirá realizar y confirmar tus cambios en una rama separada, sin afectar directamente a **master**.
+   - Regresamos a GitKraken y cambiamos a la nueva rama que acabamos de crear. Esto nos permitirá realizar y confirmar los cambios en una rama separada, sin afectar directamente a **master**.
 
  **5. Añadir cambios de la carpeta Go Bees a la carpeta P3 (Excluir .git)**:
    - **Acción**: Copia los archivos modificados de la carpeta **Go Bees** a la carpeta **P3**, asegurándote de excluir la carpeta **.git** para evitar conflictos con el repositorio.
-   - **Descripción**: Agrega los cambios que has realizado en la carpeta **Go Bees** a la estructura de la carpeta **P3** en tu repositorio local. Excluye la carpeta **.git** para evitar problemas con las configuraciones de Git.
+   - Agregamos los cambios que hemos realizado en la carpeta **Go Bees** a la estructura de la carpeta **P3** en el repositorio local. Excluiremos la carpeta **.git** para evitar problemas con las configuraciones de Git.
 
  **6. Git Stage all & Git Commit (Nombre commit)**:
    - **Acción**: Usar el comando **Git Stage all** para agregar todos los cambios al área de preparación. Luego, haz un **git commit** con un mensaje claro describiendo los cambios realizados.
-   - **Descripción**: En GitKraken, selecciona todos los cambios que deseas agregar a tu commit y haz clic en **Stage All**. Luego, escribe un mensaje de commit que describa los cambios realizados (por ejemplo, "Añadidos cambios de Go Bees a la carpeta P3").
+   - En GitKraken, seleccionamos todos los cambios que deseamos agregar al commit y haremos clic en **Stage All**. Luego, escribimos un mensaje de commit que describa los cambios realizados.
 
  **7. Git Fetch All & Sincronización**:
    - **Acción**: Realiza **Git Fetch All** y, dependiendo de si es necesario, ejecuta **git pull** o **git push**.
-   - **Descripción**:
-     - Si tu rama está desactualizada y hay cambios en el repositorio remoto, primero ejecuta **git pull** para actualizar tu rama local.
-     - Si no es necesario hacer un pull (es decir, si no hay cambios nuevos), simplemente realiza un **git push** para enviar tus cambios al repositorio remoto.
+   - 
+     - Si la rama está desactualizada y hay cambios en el repositorio remoto, primero ejecutaremos **git pull** para actualizar la rama local.
+     - Si no es necesario hacer un pull (es decir, si no hay cambios nuevos), simplemente realizaremos un **git push** para enviar los cambios al repositorio remoto.
 
  **8. Crear PR (Pull Request)**:
    - **Acción**: Crea un PR (Pull Request) de tu rama **Go Bees** hacia **master** en GitHub.
-   - **Descripción**: Una vez que hayas subido tus cambios a GitHub, crea un Pull Request (PR) desde tu rama **Go Bees** hacia la rama **master** de tu repositorio. Esto permite la revisión de los cambios antes de que se fusionen en **master**.
+   - Una vez que hayamos subido tus cambios a GitHub, crearemos un Pull Request (PR) desde la rama correspondiente hacia la rama **master** del repositorio. Esto permite la revisión de los cambios antes de que se fusionen en **master**.
 
  **9. Merge PR y Actualizar master en local**:
    - **Acción**: Merge PR y actualizar **master** en local con **git pull**.
-   - **Descripción**: Una vez que tu PR haya sido revisado y aprobado, haz el merge en GitHub. Después, regresa a GitKraken y actualiza tu rama **master** local con **git pull** para asegurarte de que tu rama **master** local está sincronizada con los cambios fusionados desde el PR.
+   - Una vez que el PR haya sido revisado y aprobado, haremos el merge en GitHub. Después, regresamos a GitKraken y actualizaremos la rama **master** local con **git pull** para asegurarnos de que tu rama **master** local está sincronizada con los cambios fusionados desde el PR.
 
 ---
 
