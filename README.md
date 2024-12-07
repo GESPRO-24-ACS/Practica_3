@@ -57,10 +57,9 @@ David Santamaria
    - **Acción**: Merge PR y actualizar **master** en local con **git pull**.
    - Una vez que el PR haya sido revisado y aprobado, haremos el merge en GitHub. Después, regresamos a GitKraken y actualizaremos la rama **master** local con **git pull** para asegurarnos de que tu rama **master** local está sincronizada con los cambios fusionados desde el PR.
 
----
 
 
-###GITKRAKEN 
+GITKRAKEN - 
 **Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio**
 
 ![image](https://github.com/user-attachments/assets/95d2821d-188e-4864-aadf-5d2724e4300a)
