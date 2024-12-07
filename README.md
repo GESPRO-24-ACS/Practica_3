@@ -17,10 +17,7 @@ David Santamaria
 [![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
 [![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
 
-**GUIA DE COMO REALIZAR LA SECUENCIA DE ACCIONES DESDE EL COMMIT HASTA QUE ES VISIBLE EN NUESTRA RAMA MASTER LOCAL**
-
-
- **Guía de Acción: Secuencia de Acciones en GitKraken**
+**Guía de cómo se realiza toda la secuencia de acciones desde que nos posicionamos en un nuevo commit del repositorio Go Bees hasta que pasa a estar visible en nuestra rama master local**
 
  **1. Go Bees (GitKraken)**:
    - **Acción**: Posicionarse en el commit para subir cambios.
